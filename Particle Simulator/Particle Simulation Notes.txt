@@ -1,0 +1,11 @@
+A particle system consists of many small particles 
+that can represent various phenomena, 
+such as smoke, fire, rain, or explosions. 
+
+Each particle has properties like position, velocity, acceleration, 
+and lifespan. 
+
+The beauty of particle systems lies in their ability to create complex 
+visual effects from simple rules.
+
+What we want to track: Position (x,y), Velocity, Acceleration, Lifespan
